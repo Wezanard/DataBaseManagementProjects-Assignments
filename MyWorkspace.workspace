@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MyWorkspace" Database="">
+  <Project Name="Problem17" Path="Problem17/Problem17.project" Active="No"/>
+  <Project Name="Problem18" Path="Problem18/Problem18.project" Active="No"/>
+  <Project Name="Problem19" Path="Problem19/Problem19.project" Active="No"/>
+  <Project Name="Problem20" Path="Problem20/Problem20.project" Active="No"/>
+  <Project Name="Problem21" Path="Problem21/Problem21.project" Active="No"/>
+  <Project Name="Problem01" Path="Problem01/Problem01.project" Active="No"/>
+  <Project Name="Promblem02" Path="Problem02/Promblem02.project" Active="No"/>
+  <Project Name="Problem03" Path="Problem03/Problem03.project" Active="No"/>
+  <Project Name="Problem04" Path="Problem04/Problem04.project" Active="No"/>
+  <Project Name="Problem08" Path="Problem08/Problem08.project" Active="No"/>
+  <Project Name="Problem09" Path="Problem09/Problem09.project" Active="No"/>
+  <Project Name="Problem22" Path="Problem22/Problem22.project" Active="No"/>
+  <Project Name="Problem23" Path="Problem23/Problem23.project" Active="No"/>
+  <Project Name="Problem24" Path="Problem24/Problem24.project" Active="No"/>
+  <Project Name="Problem25" Path="Problem25/Problem25.project" Active="No"/>
+  <Project Name="Problem26" Path="Problem26/Problem26.project" Active="No"/>
+  <Project Name="Problem27" Path="Problem27/Problem27.project" Active="No"/>
+  <Project Name="Problem28" Path="Problem28/Problem28.project" Active="No"/>
+  <Project Name="Problem29" Path="Problem29/Problem29.project" Active="No"/>
+  <Project Name="Assignment7" Path="Assignment7/Assignment7.project" Active="No"/>
+  <Project Name="Test" Path="Test/Test.project" Active="No"/>
+  <Project Name="Problem35" Path="Problem35/Problem35.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Problem09" ConfigName="Debug"/>
+      <Project Name="Problem17" ConfigName="Debug"/>
+      <Project Name="Problem18" ConfigName="Debug"/>
+      <Project Name="Problem19" ConfigName="Debug"/>
+      <Project Name="Problem20" ConfigName="Debug"/>
+      <Project Name="Problem21" ConfigName="Debug"/>
+      <Project Name="Problem01" ConfigName="Debug"/>
+      <Project Name="Problem02" ConfigName="Debug"/>
+      <Project Name="Problem03" ConfigName="Debug"/>
+      <Project Name="Problem04" ConfigName="Debug"/>
+      <Project Name="Problem08" ConfigName="Debug"/>
+      <Project Name="Problem09" ConfigName="Debug"/>
+      <Project Name="Problem22" ConfigName="Debug"/>
+      <Project Name="Problem23" ConfigName="Debug"/>
+      <Project Name="Problem24" ConfigName="Debug"/>
+      <Project Name="Problem25" ConfigName="Debug"/>
+      <Project Name="Problem26" ConfigName="Debug"/>
+      <Project Name="Problem27" ConfigName="Debug"/>
+      <Project Name="Problem28" ConfigName="Debug"/>
+      <Project Name="Problem29" ConfigName="Debug"/>
+      <Project Name="Assignment7" ConfigName="Debug"/>
+      <Project Name="Test" ConfigName="Debug"/>
+      <Project Name="Problem35" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Problem09" ConfigName="Release"/>
+      <Project Name="Problem17" ConfigName="Release"/>
+      <Project Name="Problem18" ConfigName="Release"/>
+      <Project Name="Problem19" ConfigName="Release"/>
+      <Project Name="Problem20" ConfigName="Release"/>
+      <Project Name="Problem21" ConfigName="Release"/>
+      <Project Name="Problem01" ConfigName="Release"/>
+      <Project Name="Problem02" ConfigName="Release"/>
+      <Project Name="Problem03" ConfigName="Release"/>
+      <Project Name="Problem04" ConfigName="Release"/>
+      <Project Name="Problem08" ConfigName="Release"/>
+      <Project Name="Problem09" ConfigName="Release"/>
+      <Project Name="Problem22" ConfigName="Release"/>
+      <Project Name="Problem23" ConfigName="Release"/>
+      <Project Name="Problem24" ConfigName="Release"/>
+      <Project Name="Problem25" ConfigName="Release"/>
+      <Project Name="Problem26" ConfigName="Release"/>
+      <Project Name="Problem27" ConfigName="Release"/>
+      <Project Name="Problem28" ConfigName="Release"/>
+      <Project Name="Problem29" ConfigName="Release"/>
+      <Project Name="Assignment7" ConfigName="Release"/>
+      <Project Name="Test" ConfigName="Release"/>
+      <Project Name="Problem35" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
