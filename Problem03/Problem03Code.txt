@@ -1,0 +1,9 @@
+#include <ctime>
+#include <iostream>
+using namespace std;
+int main()
+{
+    time_t now = time(0);
+    tm* localtm = localtime(&now);
+    cout << "The Date and Time is: " << asctime(localtm) << endl;
+}

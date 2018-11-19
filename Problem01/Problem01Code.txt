@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int N =0;
+    int result = 0;
+    cout << "Enter Your Positive Integer." << endl;
+    cin >> N;
+    cout << "You Inputed " << N << "."<< endl;
+    while(N!=0)
+    {
+        cout << N << " added to " << result << endl;
+        result += N;
+        N--;
+    }
+    cout << "Your Result is " << result << "." << endl;
+}
